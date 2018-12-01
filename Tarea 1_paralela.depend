@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543627526 source:c:\users\franc\desktop\tarea 1_paralela\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<cstring>
+	<stdlib.h>
+	<math.h>
+
